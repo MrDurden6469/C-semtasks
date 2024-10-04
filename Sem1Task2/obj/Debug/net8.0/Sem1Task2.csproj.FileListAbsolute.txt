@@ -1,0 +1,15 @@
+E:\Учёба\с#\Семинары\Sem1Task2\bin\Debug\net8.0\Sem1Task2.exe
+E:\Учёба\с#\Семинары\Sem1Task2\bin\Debug\net8.0\Sem1Task2.deps.json
+E:\Учёба\с#\Семинары\Sem1Task2\bin\Debug\net8.0\Sem1Task2.runtimeconfig.json
+E:\Учёба\с#\Семинары\Sem1Task2\bin\Debug\net8.0\Sem1Task2.dll
+E:\Учёба\с#\Семинары\Sem1Task2\bin\Debug\net8.0\Sem1Task2.pdb
+E:\Учёба\с#\Семинары\Sem1Task2\obj\Debug\net8.0\Sem1Task2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\с#\Семинары\Sem1Task2\obj\Debug\net8.0\Sem1Task2.AssemblyInfoInputs.cache
+E:\Учёба\с#\Семинары\Sem1Task2\obj\Debug\net8.0\Sem1Task2.AssemblyInfo.cs
+E:\Учёба\с#\Семинары\Sem1Task2\obj\Debug\net8.0\Sem1Task2.csproj.CoreCompileInputs.cache
+E:\Учёба\с#\Семинары\Sem1Task2\obj\Debug\net8.0\Sem1Task2.sourcelink.json
+E:\Учёба\с#\Семинары\Sem1Task2\obj\Debug\net8.0\Sem1Task2.dll
+E:\Учёба\с#\Семинары\Sem1Task2\obj\Debug\net8.0\refint\Sem1Task2.dll
+E:\Учёба\с#\Семинары\Sem1Task2\obj\Debug\net8.0\Sem1Task2.pdb
+E:\Учёба\с#\Семинары\Sem1Task2\obj\Debug\net8.0\Sem1Task2.genruntimeconfig.cache
+E:\Учёба\с#\Семинары\Sem1Task2\obj\Debug\net8.0\ref\Sem1Task2.dll

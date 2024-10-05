@@ -16,7 +16,7 @@ if (100 <= num && num <= 999)
     int result = firstDigit + lastDigit;
     Console.WriteLine($"Сумма первой и последней цифры = {result}");
 }
-else 
+else
 {
     Console.Write("Ошибка ввода данных");
 }
